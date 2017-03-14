@@ -1,0 +1,13 @@
+{
+  "host": null,
+  "port": 4444,
+  "newSessionWaitTimeout": 60000,
+  "servlets" : [],
+  "prioritizer": null,
+  "capabilityMatcher":   "com.logigear.appium.grid.MobileMatcher",
+  "throwOnCapabilityNotPresent": true,
+  "nodePolling": 5000,
+  "cleanUpCycle": 5000,
+  "timeout": 300000,
+  "maxSession": 5
+}
